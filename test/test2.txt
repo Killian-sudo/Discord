@@ -1,0 +1,187 @@
+Aatrox
+
+La compétence passive rend moins de PV contre les sbires. Les dégâts du A contre les sbires ont été réduits et lissés à tous les niveaux.
+
+    Aatrox est toujours un champion très prisé chez les professionnels, nous nous penchons donc à nouveau sur son cas. Nous réduisons sa capacité à se régénérer et à balayer les vagues de sbires en fin de phase de laning (des niveaux 7 à 11). Cela devrait le rendre moins polyvalent contre tous les adversaires et moins efficaces à différents postes. 
+
+Compétence passive - Posture du massacreur
+SOINS Rend des PV équivalents aux dégâts physiques supplémentaires infligés à n'importe quelle cible. ⇒ Rend des PV équivalents à 25% des dégâts infligés contre les sbires. (Les soins contre les autres cibles restent inchangés.)
+A - Épée des Darkin
+DÉGÂTS AUX SBIRES 50-100% (aux niveaux 1-18) ⇒ 40% à tous les niveaux
+Akali
+
+Le délai de récupération du R a été augmenté en début de partie. L'étourdissement infligé par la première partie du R a été supprimé. Les dégâts de base maximum de la seconde partie du R ont été réduits en début de partie.
+
+    Comme pour Aatrox, nos changements ciblent Akali au niveau professionnel. Nous cherchons surtout à la limiter avant son pic de puissance au niveau 11. Nous retirons également l'étourdissement infligé par la première partie du R afin d'augmenter le nombre de champions et de stratégies pouvant être efficaces contre elle. Enfin, nous pensons que ces changements lui seront bénéfiques sur le long terme. 
+
+R - Maîtrise absolue
+suppriméÉTOURDISSEMENT DU 1ER R Akali n'étourdit plus ses ennemis pendant 0,5 seconde.
+DÉGÂTS MAX DU 2E R 255/450/645 (+0,9 puissance) ⇒ 195/420/645 (+0,9 puissance)
+DÉLAI DE RÉCUPÉRATION 120/110/100 secondes ⇒ 160/130/100 secondes
+-
+Annie
+
+Le E confère désormais un bonus en vitesse de déplacement qui diminue sur la durée ; la réduction des dégâts a été réduite ; le délai de récupération a été augmenté.
+
+    Nous offrons un petit boost à Annie afin qu'elle puisse plus souvent s'imposer sur sa voie en améliorant son E, ce qui devrait lui permettre de faire plus de choses par elle-même. 
+
+E - Bouclier en fusion
+nouveauVITESSE DE DÉPLACEMENT Annie gagne un bonus de 25% (+ 1,5% par niveau) en vitesse de déplacement (bonus décroissant en 1,5 seconde).
+RÉDUCTION DES DÉGÂTS 16/22/28/34/40% ⇒ 10/13/16/19/22%
+DÉLAI DE RÉCUPÉRATION 10 secondes à tous les rangs ⇒ 15 secondes à tous les rangs
+Aurelion Sol
+
+Les PV de base ont été augmentés.
+
+    Il s'agit de la suite des changements du patch 9.17, ainsi que d'un léger ajustement, maintenant que le début de sa phase de laning peut être mieux contré. 
+
+Stats de base
+PV 510 ⇒ 575
+Caitlyn
+
+Les dégâts d'attaque de base ont été augmentés.
+
+    Nous renforçons Caitlyn en début de partie afin qu'elle puisse plus facilement punir les champions ennemis qui montent en puissance au fil de la partie. 
+
+Stats de base
+DÉGÂTS D'ATTAQUE 60 ⇒ 62
+Ekko
+
+Le coût en mana du Z a été réduit et la durée de l'étourdissement a été augmentée.
+
+    Les derniers buffs apportés à Ekko lors de la 9.16 n'ont pas été suffisants à notre goût. Nous cherchons à le pousser vers un style de jeu plus agressif ayant plus d'impact à un moindre coût. 
+
+Z - Convergence parallèle
+COÛT 50/55/60/65/70 pts de mana ⇒ 30/35/40/45/50 pts de mana
+DURÉE DE L'ÉTOURDISSEMENT 1,75 seconde ⇒ 2,25 secondes
+Evelynn
+
+L'amplification des dégâts renforcés du R et les dégâts renforcés max ont été augmentés.
+
+    Evelynn n'est pas particulièrement faible, mais nous souhaitons qu'elle puisse éliminer ses cibles de façon plus fiable si elle réussit à faire tomber leurs PV sous le seuil d'exécution. 
+
+R - Faiseuse de veuves
+AMPLIFICATION DES DÉGÂTS RENFORCÉS 100% contre les ennemis ayant moins de 30% de leurs PV max ⇒ 140% contre les ennemis ayant moins de 30% de leurs PV max
+DÉGÂTS RENFORCÉS 250/500/750 (+1,5 puissance) ⇒ 300/600/900 (+1,8 puissance)
+Jhin
+
+Les dégâts d'attaque de base ont été augmentés.
+
+    Nous donnons un peu plus de peps à Jhin afin qu'il puisse plus facilement punir les ennemis trop agressifs. 
+
+Stats de base
+DÉGÂTS D'ATTAQUE 57 ⇒ 59
+Kai'Sa
+
+Le bonus du E en vitesse d'attaque a été réduit en fin de partie.
+
+    Nous réduisons les dégâts constants de Kai'Sa afin qu'elle se concentre plus sur l'élimination rapide des cibles clés et moins sur l'éradication totale de l'équipe ennemie. 
+
+E - Surpresseur
+BONUS EN VITESSE D'ATTAQUE 40/50/60/70/80% ⇒ 40/45/50/55/60%
+Kayle
+
+Dégâts passifs de base du E augmentés
+
+    Nous sommes satisfaits des changements que nous avons apportés à Kayle au patch 9.17, mais elle s'est retrouvée plus faible que nous l'avions prévu. Nous augmentons les dégâts passifs du E pour que ses attaques de base semblent plus puissantes au cours de la partie. 
+
+E - Lame de feu stellaire
+DÉGÂTS PASSIFS DE BASE 10/15/20/25/30 ⇒ 15/20/25/30/35
+Lee Sin
+
+Les PV et les dégâts d'attaque de base ont été augmentés. Les dégâts du R ont été augmentés.
+
+    Nous voulons permettre à Lee Sin de mieux capitaliser sur ses réussites en début de partie en lui offrant une compétence ultime plus puissante, afin qu'il ait plus d'impact sur le cours de la partie. 
+
+Stats de base
+PV 570,8 ⇒ 575
+DÉGÂTS D'ATTAQUE 69,2 ⇒ 70
+R - Rage du dragon
+DÉGÂTS 150/375/600 ⇒ 175/400/625
+Miss Fortune
+
+Le ralentissement du E a été augmenté en début de partie.
+
+    Lancer le E de Miss Fortune est à peine rentable au premier rang, notamment si l'on considère son coût en mana, alors nous le buffons aux premiers rangs. 
+
+E - Pluie de balles
+RALENTISSEMENT 28/36/44/52/60% ⇒ 40/45/50/55/60%
+Nunu et Willump
+
+Les stats de base ont été réduites. Le ralentissement du E augmente désormais en fonction du rang.
+
+    Qui aurait pu prévoir que Nunu et Willump créeraient un tel effet boule de neige ? Nous réduisons leur potentiel de gank en début de partie ainsi que leurs stats défensives pour qu'ils ne soient pas aussi invulnérables passé un certain point. 
+
+Stats de base
+STAT DE CROISSANCE EN PV 90 ⇒ 82
+STAT DE CROISSANCE EN ARMURE 3,5 ⇒ 3
+MANA 283,56 ⇒ 280
+RÉGÉNÉRATION DU MANA 7,44 ⇒ 7
+E - Rafale de boules de neige
+RALENTISSEMENT 50% ⇒ 30/35/40/45/50%
+Teemo
+
+Changements ergonomiques apportés au A et au Z. Ajustement des champignons du R : le nombre de charges a été augmenté et le rebond n'a plus de limite.
+
+    Ces changements devraient fluidifier les aspects un peu plus rigides du gameplay de Teemo. Nous rendons également ses champignons plus utiles au fur et à mesure que la partie progresse. 
+
+A - Fléchette aveuglante
+OH, LA JOLIE LUMIÈRE VERTE ! Les cibles aveuglées par le A de Teemo voient désormais une lumière verte autour de leur écran.
+Z - Vélocité
+VOUS AVEZ VU ÇA ? L'icone de la compétence Vélocité est désormais surmonté d'une barre pour indiquer la durée du bonus.
+R - Piège nocif
+MANGEZ-MOI Les champignons se déclenchent désormais de façon plus rapide, surtout lorsqu'un ennemi passe à travers à l'aide d'une ruée.
+ON SE CARAPATE Le carapateur ne déclenche désormais plus les champignons tant qu'il n'est pas en combat.
+SAUT DE GRENOUILLE Les champignons peuvent rebondir une fois sur un champignon. ⇒ sur tous les champignons, à l'infini.
+CHARGES MAX 3 champignons à la fois à tous les rangs ⇒ 3/4/5 champignons à la fois
+Warwick
+
+Le Z confère désormais correctement le bonus en vitesse d'attaque contre les ennemis traqués.
+
+    Nous intégrons cette correction ici plutôt que dans la section dédiée aux bugs, car c'est un buff conséquent pour Warwick. 
+
+Z - Traque sanguinaire
+CORRECTION DE BUG Warwick gagne désormais correctement le bonus en vitesse d'attaque contre les ennemis traqués.
+Xayah
+
+L'armure de base a été réduite. Le délai de récupération du R a été augmenté.
+
+    À très haut niveau, Xayah est un choix extrêmement sûr et fiable grâce à ses dégâts et à sa capacité à rester hors de danger en début de partie. Nous réduisons donc son degré de sécurité pour rendre son utilisation plus risquée par rapport aux autres champions. 
+
+Stats de base
+ARMURE 28 ⇒ 25
+R - Rafale de plumes
+DÉLAI DE RÉCUPÉRATION 140/125/110 secondes ⇒ 160/145/130 secondes
+Zoé
+
+Les dégâts de la compétence passive ont été augmentés.
+
+    Zoé est plus faible que nous le souhaiterions sur sa voie en début de partie. Nous améliorons donc cet aspect sans modifier sa capacité à tuer en un enchaînement. 
+
+Compétence passive - Plus d'étincelles !
+DÉGÂTS 10/12/16/20/24/28/34/40/46/
+52/60/68/76/84/94/104/114/124 ⇒ 16/20/24/28/32/36/42/48/54/
+60/66/74/82/90/100/110/120/130
+
+Options d'accessibilité vidéo
+
+    De nouvelles options sont désormais disponibles dans la section Vidéo des paramètres en jeu. Pour les joueurs qui en ont besoin, ces options peuvent se révéler absolument nécessaires afin de rendre leur expérience de jeu plus confortable, voire simplement possible ! N'hésitez pas à nous donner votre avis et à nous dire quelles autres options vous souhaiteriez avoir, car nous sommes déterminés à ajouter plus de paramètres d'accessibilité à l'avenir. 
+
+ACTIVER LES TREMBLEMENTS DE L'ÉCRAN Cette option est activée par défaut, mais vous pouvez la désactiver pour ne pas voir les tremblements provoqués par exemple par le Rappel d'Ezreal Pulsefire ou l'ultime d'Ornn.
+CURSEURS VISUELS Ils permettent aux joueurs de régler la saturation, la correction gamma, la luminosité et le contraste en jeu. Ces options changent l'apparence générale du jeu (hors interface) et vous permettent de rapidement diminuer ou accentuer les différences visuelles en jeu.
+
+Corrections de bugs
+
+    Le E - Portail d'accélération de Jayce fonctionne désormais correctement s'il est lancé directement sur Jayce.
+    Lancer un signal sur le R - Météore de Pantheon indiquera à ses alliés quels ennemis sont à portée.
+    Loup ne confère plus de vision supplémentaire non fonctionnelle à Kindred lorsqu'il tourne autour d'Agneau.
+    Les champions affectés par la stase ne se déplacent plus durant l'effet.
+    Les alliés se dirigeant vers Tahm Kench pour utiliser son R - Traversée des abysses ne se retrouvent plus coincés lorsque Tahm Kench est touché par un ennemi.
+    Lorsque Shaco effraie une cible avec son Z - Boîte surprise, il reçoit désormais correctement une assistance si la cible est tuée rapidement.
+    La bulle d'aide de la compétence passive - Lame sélène de Diana se met désormais à jour correctement lorsque le rang de son E - Attraction lunaire augmente.
+    Le E - Pyromâcheurs ! de Jinx empêche désormais correctement Akali de se déplacer lorsqu'elle utilise son R - Maîtrise absolue pour passer à travers.
+    Le A - Rafale filée de Taliyah consomme désormais correctement le coût en mana entier après qu'elle est sortie d'une zone de sol ouvragé.
+    Illaoi ne peut désormais plus se ruer sur une courte distance à l'aide de son Z - Âpre leçon lorsqu'elle est immobilisée.
+    Les attaques en cône des Meeps de Bard détruisent désormais correctement les boucliers antisorts.
+    Quand Karthus est sous l'effet de sa compétence passive - Déni de mort, son Z - Mur de douleur confère désormais correctement la vision autour du mur.
+
